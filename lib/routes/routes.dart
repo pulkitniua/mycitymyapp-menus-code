@@ -9,6 +9,7 @@ import 'package:mobile_app/MyCity/screens/home/official_home/ulb_service_managem
 import 'package:mobile_app/MyCity/screens/home/select_category.dart';
 import 'package:mobile_app/MyCity/screens/home/visitor_home/visitor_home.dart';
 import 'package:mobile_app/MyCity/screens/menus/business_menu.dart';
+import 'package:mobile_app/MyCity/screens/menus/citizen_menu.dart';
 import 'package:mobile_app/MyCity/screens/menus/visitor_menu.dart';
 import 'package:mobile_app/binding/challan_binding.dart';
 import 'package:mobile_app/binding/fire_noc_binding.dart';
@@ -95,7 +96,7 @@ import 'package:mobile_app/screens/employee/emp_water/emp_ws/emp_water_screen.da
 import 'package:mobile_app/screens/select_citizen/select_citizen_new.dart';
 import 'package:mobile_app/screens/splash/splash_screen.dart';
 
-import '../MyCity/screens/menus/citizen_menu.dart';
+
 
 class AppRoutes {
   static const String SPLASH = '/SPLASH';
